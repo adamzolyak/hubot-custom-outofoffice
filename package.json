@@ -1,7 +1,7 @@
 {
   "name": "hubot-custom-out-of-office",
   "description": "An out of office script for Hubot.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Adam Zolyak <adam@tinkurlab.com> (http://www.tinkurlab.com)",
   "license": "ISC",
   "keywords": [
