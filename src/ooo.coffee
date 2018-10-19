@@ -7,9 +7,6 @@
 #   hubot check ooo - check if you have an out of office message enabled
 #   hubot disable ooo - turn off out of office auto reply
 #
-# Author:
-#   Adam Zolyak (adam.zolyak@ca.com)
-#   Val Zolyak (valerie.zolyak@ca.com)
 
 module.exports = (robot) ->
 

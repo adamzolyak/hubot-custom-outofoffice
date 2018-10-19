@@ -1,13 +1,10 @@
 {
   "name": "hubot-custom-out-of-office",
-  "description": "An out of office script for Hubot.",
-  "version": "0.0.2",
+  "description": "Pugme is the most important hubot script",
+  "version": "0.0.9",
   "author": "Adam Zolyak <adam@tinkurlab.com> (http://www.tinkurlab.com)",
   "license": "ISC",
-  "keywords": [
-    "hubot",
-    "hubot-scripts"
-  ],
+  "keywords": "hubot, hubot-scripts",
   "repository": {
     "type": "git",
     "url": "git://github.com/adamzolyak/hubot-custom-out-of-office.git"
@@ -20,22 +17,14 @@
     "hubot": ">=2 <10 || 0.0.0-development"
   },
   "devDependencies": {
-    "hubot": "3.x",
+    "hubot": "2.x",
     "mocha": "*",
     "chai": "*",
     "sinon-chai": "*",
-    "sinon": "*",
-    "grunt-mocha-test": "~0.7.0",
-    "grunt-release": "~0.6.0",
-    "matchdep": "~0.1.2",
-    "grunt-contrib-watch": "~0.5.3"
+    "sinon": "*"
   },
   "main": "index.coffee",
   "scripts": {
-    "test": "grunt test"
-  },
-  "homepage": "https://github.com/adamzolyak/hubot-out-of-office#readme",
-  "directories": {
-    "test": "test"
+    "test": ""
   }
 }
