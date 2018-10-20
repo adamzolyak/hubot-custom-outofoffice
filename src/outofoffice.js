@@ -3,7 +3,7 @@
 //
 // Commands:
 //   hubot enable ooo - set an out of office auto reply
-//   hubot enable ooo your message - set an out of office auto reply with a custom message
+//   hubot enable ooo <your message> - set an out of office auto reply with a custom message
 //   hubot check ooo - check if you have an out of office message enabled
 //   hubot disable ooo - turn off out of office auto reply
 //

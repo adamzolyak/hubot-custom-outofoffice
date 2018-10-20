@@ -1,2 +1,2 @@
 # hubot-out-of-office
-An out of office script for Hubot.
+An Hubot script to set an away or out of office message.
