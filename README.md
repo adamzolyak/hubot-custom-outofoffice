@@ -33,8 +33,6 @@ The following commands are available to manage your out of office message:
 
 If you have suggestions for how Top Issue Bot could be improved, or want to report a bug, open an issue!  Or Pull Request! We'd love all and any contributions.
 
-For more, check out the [Contributing Guide](CONTRIBUTING.md).
-
 This package is published on NPM at [https://www.npmjs.com/package/hubot-custom-outofoffice](https://www.npmjs.com/package/hubot-custom-outofoffice).
 
 ### Setting Up Locally
