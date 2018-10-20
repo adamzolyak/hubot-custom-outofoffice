@@ -7,10 +7,10 @@
   "keywords": "hubot, hubot-scripts",
   "repository": {
     "type": "git",
-    "url": "git://github.com/adamzolyak/hubot-custom-out-of-office.git"
+    "url": "git://github.com/adamzolyak/hubot-custom-outofoffice.git"
   },
   "bugs": {
-    "url": "https://github.com/adamzolyak/hubot-custom-out-of-office/issues"
+    "url": "https://github.com/adamzolyak/hubot-custom-outofoffice/issues"
   },
   "dependencies": {},
   "peerDependencies": {
