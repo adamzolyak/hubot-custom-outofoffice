@@ -1,9 +1,9 @@
 # Hubot Custom Out of Office
-An Hubot script to set a custom away or out of office message so your coworkers know that you're not available. 
+An [Hubot](https://hubot.github.com/) script to set a custom away or out of office message so your coworkers know that you're not available. 
 
 ## How It Works
 
-Whenever someone @mentions you in chat, hubot will respond with your out of office message if set.
+Whenever someone @mentions you in chat, [hubot](https://hubot.github.com/) will respond with your out of office message if set.
 
 The following commands are available to manage your out of office message:
 
