@@ -7,10 +7,10 @@ Whenever someone @mentions you in chat, hubot will respond with your out of offi
 
 The following commands are available to manage your out of office message:
 
-`hubot enable ooo` - set an out of office auto reply
-`hubot enable ooo <your message>` - set an out of office auto reply with a custom message
-`hubot check ooo` - check if you have an out of office message enabled
-`hubot disable ooo` - turn off out of office auto reply
+* `hubot enable ooo` - set an out of office auto reply
+* `hubot enable ooo <your message>` - set an out of office auto reply with a custom message
+* `hubot check ooo` - check if you have an out of office message enabled
+* `hubot disable ooo` - turn off out of office auto reply
 
 ## Installation
 
