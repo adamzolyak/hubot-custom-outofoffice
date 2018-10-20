@@ -19,11 +19,14 @@ The following commands are available to manage your out of office message:
 1. Run `npm install`.
 1. Restart hubot.
 
-## Examples
+## Example
 
 >adam: @hubot enable ooo I'm out of the office.  I'll return on Monday 10/1.
+
 >hubot: out of office enabled with message "I'm out of the office.  I'll return on Monday 10/1."
+
 >judy: @adam do want to grab a coffee with me?  
+
 >hubot: @waffletron9000 is out of office "I'm out of the office.  I'll return on Monday 10/1."
 
 ## Contributing
