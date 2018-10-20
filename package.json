@@ -1,7 +1,7 @@
 {
   "name": "hubot-custom-out-of-office",
-  "description": "Pugme is the most important hubot script",
-  "version": "0.0.9",
+  "description": "An out of office script for Hubot.",
+  "version": "0.0.1",
   "author": "Adam Zolyak <adam@tinkurlab.com> (http://www.tinkurlab.com)",
   "license": "ISC",
   "keywords": "hubot, hubot-scripts",
@@ -17,7 +17,7 @@
     "hubot": ">=2 <10 || 0.0.0-development"
   },
   "devDependencies": {
-    "hubot": "2.x",
+    "hubot": "3.x",
     "mocha": "*",
     "chai": "*",
     "sinon-chai": "*",
