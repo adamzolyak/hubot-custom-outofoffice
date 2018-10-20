@@ -1,5 +1,5 @@
 {
-  "name": "hubot-custom-out-of-office",
+  "name": "hubot-custom-outofoffice",
   "description": "An out of office script for Hubot.",
   "version": "0.0.3",
   "author": "Adam Zolyak <adam@tinkurlab.com> (http://www.tinkurlab.com)",
